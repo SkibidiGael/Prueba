@@ -1,0 +1,57 @@
+
+.right {
+  position: absolute;
+  right: 200px;
+  width: 300px;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover  {
+  color: orange;
+  }
+
+
+a:active   {
+  color: yelow;
+  }
+ 
+.redes {
+
+
+width: 500px;
+height: 160px;
+}
+h5{
+
+	color: yellow;
+}
+
+body{
+	background-image: url("CGCG.jpg");
+
+	font-family:Arial;
+}
+
+.cart {
+
+width: 90px;
+height: 80px;
+}
+
+img{
+width: 200px;
+height: 200px;
+}
+.title{
+	width: 400px;
+	height: 60px;
+}
+table {
+	text-align: center;
+ background-color: black;
+ opacity: 0.9;
+ width: 70%;
+}
